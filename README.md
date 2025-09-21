@@ -1,5 +1,16 @@
 ## Objetivo del proyecto.
-Comprender el concepto de pilas a traves de un aplicativo en consola que simula un deshacer/rehacer (Undo/Redo) utilizando la clase Stack del package java.util.Stack
+Comprender el concepto de pilas a traves de un aplicativo en consola que simula un deshacer/rehacer.
+
+## Conceptos.
+Una pila (stack) es una estructura de datos que sigue el principio LIFO (Last In, First Out → el último en entrar es el primero en salir).
+Se puede implementar con la clase Stack<E> de la librería estándar (java.util.Stack).
+
+- Características principales:
+
+  - push(elemento) → añade un elemento a la pila.
+  - pop() → elimina y devuelve el último elemento agregado.
+  - peek() → devuelve el último elemento sin eliminarlo.
+  - empty() → comprueba si la pila está vacía.
 
 ## Instrucciones de ejecución.
 1. Clonar repositorio HTTPS:
